@@ -1,5 +1,5 @@
 {
-  "name": "uniswap",
+  "name": "uniswap-solidity",
   "version": "1.0.0",
   "description": "Uniswap interfaces and ABIs",
   "main": "index.js",
